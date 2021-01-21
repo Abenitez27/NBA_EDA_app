@@ -5,4 +5,4 @@ pandas==1.2.1
 seaborn==0.11.1
 pybase64==1.1.1
 seaborn==0.11.1
-
+lxml==4.6.2
